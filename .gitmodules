@@ -1,0 +1,6 @@
+[submodule "Electronics"]
+	path = Electronics
+	url = https://github.com/mipidisaster/mipiInk.Electronics
+[submodule "Software"]
+	path = Software
+	url = https://github.com/mipidisaster/mipiInk.Software
