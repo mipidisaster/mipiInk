@@ -7,3 +7,6 @@
 # Include the git ignore file, as want this for all repositories
 !.gitignore
 !README.md
+
+# Include the sub-projects
+!/Electronics
