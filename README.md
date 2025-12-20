@@ -35,6 +35,4 @@ Nether device has any protection for none images being converted and/or pushed t
 Recorded as [Issue #19](https://github.com/mipidisaster/mipiInk/issues/19)
 
 # Support
-> Any other issues, record within [mipidisaster/mipiInk.Software](https://github.com/mipidisaster/mipiInk.Software)
-
-or hardware issues, record within [mipidisaster/mipiInk.Electronics](https://github.com/mipidisaster/mipiInk.Electronics)
+Any other issues, record within [mipidisaster/mipiInk.Software](https://github.com/mipidisaster/mipiInk.Software) or hardware issues, record within [mipidisaster/mipiInk.Electronics](https://github.com/mipidisaster/mipiInk.Electronics)
